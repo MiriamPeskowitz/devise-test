@@ -1,5 +1,10 @@
 # README
 
+This is a practice file, code for devise and omniauth, using twitter, in preparation for coding a full rails app. Using https://www.digitalocean.com/community/tutorials/how-to-configure-devise-and-omniauth-for-your-rails-application
+
+
+
+*** 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
